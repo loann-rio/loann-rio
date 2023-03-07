@@ -1,4 +1,4 @@
-name: snk-svg-generator
+name: snake-svg-generator
 run-name: ${{ github.repository_owner }}'s animated contributions
 on: 
   schedule:
